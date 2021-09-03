@@ -12,8 +12,8 @@ export const PORT = (MODE === 'fork') ? (process.argv[2] ? parseInt(process.argv
 export const MONGO_URI = 'mongodb+srv://user:pass@cluster0.99scg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 // TWILIO
-export const TWILIO_ACCID = 'AC278d1712d34620c78cf391d8920e4f1b';
-export const TWILIO_AUTHTOKEN = 'd8ed681b7c666c92fcde4db428c63e56';
+export const TWILIO_ACCID = 'Paso x mensaje';
+export const TWILIO_AUTHTOKEN = 'Paso x mensaje';
 
 // NODEMAILER ETHEREAL
 export const ETHEREAL_USER = "donnie.lockman61@ethereal.email";
