@@ -1,0 +1,3 @@
+{"message":"invalid json response body at http://localhost:8080/api/mensajes reason: Unexpected token < in JSON at position 0","type":"invalid-json","level":"error"}
+{"message":"invalid json response body at http://localhost:8080/api/mensajes reason: Unexpected token < in JSON at position 0","type":"invalid-json","level":"error"}
+{"message":"invalid json response body at http://localhost:8080/api/mensajes reason: Unexpected token < in JSON at position 0","type":"invalid-json","level":"error"}
