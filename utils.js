@@ -20,5 +20,5 @@ export const ETHEREAL_USER = "donnie.lockman61@ethereal.email";
 export const ETHEREAL_PASS = "BY67X7jBAq6Ks1HpYK";
 
 // NODEMAILER GMAIL
-export const GMAIL_USER = 'aleramos.ok@gmail.com';
-export const GMAIL_PASS = 'alejandrito77';
+export const GMAIL_USER = 'Paso x mensaje';
+export const GMAIL_PASS = 'Paso x mensaje';
